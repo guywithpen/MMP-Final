@@ -1,0 +1,35 @@
+p {
+    font-size: 30px; 
+    font-family: serif; 
+    /*font-weight: bold;*/
+}
+
+.one {
+    width: 600;
+    height:600;
+}
+
+.stats {
+    width:300px;
+    height:100px;
+}
+
+.back{
+width:200px;
+height:90px;
+
+}
+
+body {
+    background-color: cornflowerblue;
+    margin-left: 200px; 
+    margin-right: 200px;
+}
+b{
+    font-size:41px;
+}
+
+.stressed{
+    width:1000px;
+    height:500px; 
+}
